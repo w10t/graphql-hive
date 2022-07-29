@@ -66,7 +66,7 @@ See you in Hive! 🐝
 - App: React, Next.js, Tailwind CSS, Radix Primitives
 - CLI: Oclif
 - Deployment: Pulumi, K8s, Nginx Proxy, Azure Cloud, CloudFlare Workers + KV Cache
-- Monitoring: Promthues, Grafana, Sentry
+- Monitoring: Prometheus, Grafana, Sentry
 - DB: Postgres, Redis, ClickHouse
 
 ## Docs
